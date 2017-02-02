@@ -4,6 +4,7 @@ C++, OpenGL
 
 ## Authors
 Ahuir Dominguez, Víctor
+
 Soriano Pérez, Carles S.
 
 ##Description
